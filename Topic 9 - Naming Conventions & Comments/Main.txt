@@ -1,0 +1,7 @@
+﻿Which of the following is a bad reason to use a code comment? 
+	To explain how a new C# keyword works.
+	Correct! Comments should not be used for this reason.
+
+
+The using statement enables you to write code that implements members of the System namespace without requiring you to specify System.
+For example, your code can use the Console.WriteLine() method without having to specify System.Console.WriteLine()
