@@ -19,3 +19,12 @@ if (int.TryParse(data, out result)) // pass by reference
     Print(result+"\t passed");
 else 
     Print(result + "\t failed");
+
+
+// implicit casting 
+string firstName = "Bob";
+int widgetsSold = 7;
+Console.WriteLine(firstName + " sold " + widgetsSold + " widgets.");
+Console.WriteLine(firstName + " sold " + widgetsSold +7+ " widgets.");
+
+
