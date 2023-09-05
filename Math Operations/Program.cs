@@ -35,3 +35,5 @@ Console.WriteLine(value1);
 Console.WriteLine(value2);
 
 Console.WriteLine(5 / 10);
+decimal gradePointAverage = 3.99872831m;
+Console.WriteLine((int)gradePointAverage);

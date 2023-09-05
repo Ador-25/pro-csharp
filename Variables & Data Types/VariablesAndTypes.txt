@@ -11,3 +11,11 @@
 	uint 	0 to 4,294,967,295 	Unsigned 32-bit integer 	System.UInt32
 	long 	-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 	Signed 64-bit integer 	System.Int64
 	ulong 	0 to 18,446,744,073,709,551,615 	Unsigned 64-bit integer 	System.UInt64
+
+
+	C# data types (such as string and int) are actually made available through classes in the
+	.NET Class Library. The C# language masks the connection between the data types and the
+	.NET classes in order to simplify your work. 
+	However, behind the scenes, the data types are implemented just like every other class in the
+	.NET Class Library.
+	This connection provides your everyday variables with built-in methods that can be very helpful.
