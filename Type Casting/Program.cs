@@ -29,3 +29,8 @@ Console.WriteLine(firstName + " sold " + widgetsSold +7+ " widgets.");
 Console.WriteLine(firstName + " sold " + (widgetsSold + 7) + " widgets.");
 
 
+
+string a = "asdasfr";
+int b = 3;
+a = a + b;
+Console.WriteLine(a);
