@@ -1,0 +1,15 @@
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\Module 13 - While Loops and Do While Loops.csproj.AssemblyReference.cache
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\Module 13 - While Loops and Do While Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\Module 13 - While Loops and Do While Loops.AssemblyInfoInputs.cache
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\Module 13 - While Loops and Do While Loops.AssemblyInfo.cs
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\Module 13 - While Loops and Do While Loops.csproj.CoreCompileInputs.cache
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\bin\Debug\net7.0\Module 13 - While Loops and Do While Loops.exe
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\bin\Debug\net7.0\Module 13 - While Loops and Do While Loops.deps.json
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\bin\Debug\net7.0\Module 13 - While Loops and Do While Loops.runtimeconfig.json
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\bin\Debug\net7.0\Module 13 - While Loops and Do While Loops.dll
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\bin\Debug\net7.0\Module 13 - While Loops and Do While Loops.pdb
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\Module 13 - While Loops and Do While Loops.dll
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\refint\Module 13 - While Loops and Do While Loops.dll
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\Module 13 - While Loops and Do While Loops.pdb
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\Module 13 - While Loops and Do While Loops.genruntimeconfig.cache
+D:\Now\c-sharp-mastery\Module 13 - While Loops and Do While Loops\obj\Debug\net7.0\ref\Module 13 - While Loops and Do While Loops.dll

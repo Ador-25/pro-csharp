@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int itr = 5;
+do
+{
+    Console.WriteLine(itr);
+    // This code executes at least one time
+} while (itr++ < 3);
