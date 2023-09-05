@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Conditions - If Else\\Conditions - If Else.csproj",
-      "projectName": "Conditions - If Else",
-      "projectPath": "D:\\Now\\c-sharp-mastery\\Conditions - If Else\\Conditions - If Else.csproj",
+      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Conditions - If Else\\Topic 7 - Conditions - If Else.csproj",
+      "projectName": "Topic 7 - Conditions - If Else",
+      "projectPath": "D:\\Now\\c-sharp-mastery\\Conditions - If Else\\Topic 7 - Conditions - If Else.csproj",
       "packagesPath": "C:\\Users\\Ador\\.nuget\\packages\\",
       "outputPath": "D:\\Now\\c-sharp-mastery\\Conditions - If Else\\obj\\",
       "projectStyle": "PackageReference",
