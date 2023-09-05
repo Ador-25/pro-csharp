@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 5 - Method Overloadin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 7 - Conditions - If Else", "..\Conditions - If Else\Topic 7 - Conditions - If Else.csproj", "{3B7DB6E3-359A-4A6A-855D-14F1A6AE4540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "..\Arrays\Arrays.csproj", "{0BB75827-465B-4890-8AB4-C7D0493393AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 8 -Arrays", "..\Arrays\Topic 8 -Arrays.csproj", "{0BB75827-465B-4890-8AB4-C7D0493393AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

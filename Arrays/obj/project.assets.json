@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Arrays\\Arrays.csproj",
-      "projectName": "Arrays",
-      "projectPath": "D:\\Now\\c-sharp-mastery\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Arrays\\Topic 8 -Arrays.csproj",
+      "projectName": "Topic 8 -Arrays",
+      "projectPath": "D:\\Now\\c-sharp-mastery\\Arrays\\Topic 8 -Arrays.csproj",
       "packagesPath": "C:\\Users\\Ador\\.nuget\\packages\\",
       "outputPath": "D:\\Now\\c-sharp-mastery\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
