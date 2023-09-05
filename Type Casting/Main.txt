@@ -1,1 +1,9 @@
-﻿
+﻿Two types of castings
+
+	Implicit
+		Implicit casting occurs when you convert a smaller data type to a larger data type, and it happens automatically without the need for explicit type casting.
+		The compiler knows that no data loss will occur during this conversion because the target type can accommodate all possible values of the source type.
+	
+	Explicit
+		Explicit casting is required when you want to convert a larger data type to a smaller data type, and there is a potential for data loss or a change in representation.
+		You need to use explicit casting operators to perform this conversion, and you should be cautious as it may result in loss of information.
