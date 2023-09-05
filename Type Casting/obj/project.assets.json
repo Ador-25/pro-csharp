@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Type Casting\\Type Casting.csproj",
-      "projectName": "Type Casting",
-      "projectPath": "D:\\Now\\c-sharp-mastery\\Type Casting\\Type Casting.csproj",
+      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Type Casting\\Topic 2 - Type Casting.csproj",
+      "projectName": "Topic 2 - Type Casting",
+      "projectPath": "D:\\Now\\c-sharp-mastery\\Type Casting\\Topic 2 - Type Casting.csproj",
       "packagesPath": "C:\\Users\\Ador\\.nuget\\packages\\",
       "outputPath": "D:\\Now\\c-sharp-mastery\\Type Casting\\obj\\",
       "projectStyle": "PackageReference",

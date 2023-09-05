@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Topic 3 - String Formatting/1.0.0": {
+        "runtime": {
+          "Topic 3 - String Formatting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Topic 3 - String Formatting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

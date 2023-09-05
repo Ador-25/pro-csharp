@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Variables & Data Types\\Variables & Data Types.csproj",
-      "projectName": "Variables & Data Types",
-      "projectPath": "D:\\Now\\c-sharp-mastery\\Variables & Data Types\\Variables & Data Types.csproj",
+      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Variables & Data Types\\Topic 1 - Variables & Data Types.csproj",
+      "projectName": "Topic 1 - Variables & Data Types",
+      "projectPath": "D:\\Now\\c-sharp-mastery\\Variables & Data Types\\Topic 1 - Variables & Data Types.csproj",
       "packagesPath": "C:\\Users\\Ador\\.nuget\\packages\\",
       "outputPath": "D:\\Now\\c-sharp-mastery\\Variables & Data Types\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables & Data Types", "Variables & Data Types.csproj", "{CD49BB86-57EE-4B92-8787-E934226A0CC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic 1 - Variables & Data Types", "Topic 1 - Variables & Data Types.csproj", "{CD49BB86-57EE-4B92-8787-E934226A0CC2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Type Casting", "..\Type Casting\Type Casting.csproj", "{07967216-88C6-4D99-9F31-309F8A0D0B81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic 2 - Type Casting", "..\Type Casting\Topic 2 - Type Casting.csproj", "{07967216-88C6-4D99-9F31-309F8A0D0B81}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Formatting", "..\String Formatting\String Formatting.csproj", "{0261810E-10AC-4F47-BC45-63F5FFB67D43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topic 3 - String Formatting", "..\String Formatting\Topic 3 - String Formatting.csproj", "{0261810E-10AC-4F47-BC45-63F5FFB67D43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math Operations", "..\Math Operations\Math Operations.csproj", "{5E2BDB95-8491-4A8F-A88C-B44B830225BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 6 - Math Operations", "..\Math Operations\Topic 6 - Math Operations.csproj", "{5E2BDB95-8491-4A8F-A88C-B44B830225BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 4 - NET Class Libraries", "..\NET Class Libraries\Topic 4 - NET Class Libraries.csproj", "{C18932FF-930E-457B-8FB5-93E507B6B2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 5 - Method Overloading", "..\Method Overloading\Topic 5 - Method Overloading.csproj", "{3B389898-9B86-4D52-9416-9D4EE3ACA443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditions - If Else", "..\Conditions - If Else\Conditions - If Else.csproj", "{3B7DB6E3-359A-4A6A-855D-14F1A6AE4540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "..\Arrays\Arrays.csproj", "{0BB75827-465B-4890-8AB4-C7D0493393AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{5E2BDB95-8491-4A8F-A88C-B44B830225BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E2BDB95-8491-4A8F-A88C-B44B830225BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E2BDB95-8491-4A8F-A88C-B44B830225BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18932FF-930E-457B-8FB5-93E507B6B2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18932FF-930E-457B-8FB5-93E507B6B2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18932FF-930E-457B-8FB5-93E507B6B2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18932FF-930E-457B-8FB5-93E507B6B2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B389898-9B86-4D52-9416-9D4EE3ACA443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B389898-9B86-4D52-9416-9D4EE3ACA443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B389898-9B86-4D52-9416-9D4EE3ACA443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B389898-9B86-4D52-9416-9D4EE3ACA443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7DB6E3-359A-4A6A-855D-14F1A6AE4540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7DB6E3-359A-4A6A-855D-14F1A6AE4540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7DB6E3-359A-4A6A-855D-14F1A6AE4540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7DB6E3-359A-4A6A-855D-14F1A6AE4540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB75827-465B-4890-8AB4-C7D0493393AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB75827-465B-4890-8AB4-C7D0493393AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB75827-465B-4890-8AB4-C7D0493393AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB75827-465B-4890-8AB4-C7D0493393AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

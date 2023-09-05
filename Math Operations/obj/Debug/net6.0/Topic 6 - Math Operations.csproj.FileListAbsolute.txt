@@ -1,0 +1,15 @@
+D:\Now\c-sharp-mastery\Math Operations\bin\Debug\net6.0\Topic 6 - Math Operations.exe
+D:\Now\c-sharp-mastery\Math Operations\bin\Debug\net6.0\Topic 6 - Math Operations.deps.json
+D:\Now\c-sharp-mastery\Math Operations\bin\Debug\net6.0\Topic 6 - Math Operations.runtimeconfig.json
+D:\Now\c-sharp-mastery\Math Operations\bin\Debug\net6.0\Topic 6 - Math Operations.dll
+D:\Now\c-sharp-mastery\Math Operations\bin\Debug\net6.0\Topic 6 - Math Operations.pdb
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\Topic 6 - Math Operations.csproj.AssemblyReference.cache
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\Topic 6 - Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\Topic 6 - Math Operations.AssemblyInfoInputs.cache
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\Topic 6 - Math Operations.AssemblyInfo.cs
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\Topic 6 - Math Operations.csproj.CoreCompileInputs.cache
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\Topic 6 - Math Operations.dll
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\refint\Topic 6 - Math Operations.dll
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\Topic 6 - Math Operations.pdb
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\Topic 6 - Math Operations.genruntimeconfig.cache
+D:\Now\c-sharp-mastery\Math Operations\obj\Debug\net6.0\ref\Topic 6 - Math Operations.dll

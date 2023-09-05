@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Math Operations\\Math Operations.csproj",
-      "projectName": "Math Operations",
-      "projectPath": "D:\\Now\\c-sharp-mastery\\Math Operations\\Math Operations.csproj",
+      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\Math Operations\\Topic 6 - Math Operations.csproj",
+      "projectName": "Topic 6 - Math Operations",
+      "projectPath": "D:\\Now\\c-sharp-mastery\\Math Operations\\Topic 6 - Math Operations.csproj",
       "packagesPath": "C:\\Users\\Ador\\.nuget\\packages\\",
       "outputPath": "D:\\Now\\c-sharp-mastery\\Math Operations\\obj\\",
       "projectStyle": "PackageReference",

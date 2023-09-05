@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\String Formatting\\String Formatting.csproj",
-      "projectName": "String Formatting",
-      "projectPath": "D:\\Now\\c-sharp-mastery\\String Formatting\\String Formatting.csproj",
+      "projectUniqueName": "D:\\Now\\c-sharp-mastery\\String Formatting\\Topic 3 - String Formatting.csproj",
+      "projectName": "Topic 3 - String Formatting",
+      "projectPath": "D:\\Now\\c-sharp-mastery\\String Formatting\\Topic 3 - String Formatting.csproj",
       "packagesPath": "C:\\Users\\Ador\\.nuget\\packages\\",
       "outputPath": "D:\\Now\\c-sharp-mastery\\String Formatting\\obj\\",
       "projectStyle": "PackageReference",
