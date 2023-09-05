@@ -1,0 +1,41 @@
+﻿# The Main method is the entry point of a C# application.
+
+# There can only be one entry point in a C# program. If you have more than one class that has a Main method, you must compile your program with the StartupObject compiler option to specify which Main method to use as the entry point.
+
+# Starting in C# 9, you can omit the Main method, and write C# statements as if they were in the Main method
+
+# Main is default private
+
+# Valid mains:
+	public static void Main() { }
+	public static int Main() { }
+	public static void Main(string[] args) { }
+	public static int Main(string[] args) { }
+	public static async Task Main() { }
+	public static async Task<int> Main() { }
+	public static async Task Main(string[] args) { }
+	public static async Task<int> Main(string[] args) { }
+
+
+	class Program
+    {
+        static void Main(string[] args)
+        {
+            // Display the number of command line arguments.
+            Console.WriteLine("HELLO");
+        }
+    }
+
+    public struct MyStruct
+    {
+        public int Value;
+
+        // Main method inside a struct (not a common practice)
+        public static void Main(string[] args)
+        {
+            MyStruct myStruct = new MyStruct();
+            myStruct.Value = 42;
+
+            Console.WriteLine("Value inside the struct: " + myStruct.Value);
+        }
+    }

@@ -1,0 +1,13 @@
+﻿# Variable names can contain alphanumeric characters and the underscore character. Special characters like the hash symbol # (also known as the number symbol or pound symbol) or dollar symbol $ are not allowed.
+
+# An implicitly typed local variable is created by using the var keyword followed by a variable initialization. 
+
+# float - 32 bits
+# double - 64 bits
+# decilam - 128 bits
+
+
+	int 	-2,147,483,648 to 2,147,483,647 	Signed 32-bit integer 	System.Int32
+	uint 	0 to 4,294,967,295 	Unsigned 32-bit integer 	System.UInt32
+	long 	-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 	Signed 64-bit integer 	System.Int64
+	ulong 	0 to 18,446,744,073,709,551,615 	Unsigned 64-bit integer 	System.UInt64
