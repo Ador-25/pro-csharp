@@ -1,5 +1,3 @@
-﻿ 
-
- # String interpolation combines multiple values into a single literal string by using a "template" and one or more interpolation expressions. 
+﻿  # String interpolation combines multiple values into a single literal string by using a "template" and one or more interpolation expressions. 
  An interpolation expression is a variable surrounded by an opening and closing curly brace symbol { }.
  The literal string becomes a template when it's prefixed by the $ character.
