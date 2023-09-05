@@ -1,0 +1,15 @@
+D:\Now\c-sharp-mastery\Module 12 - For Loops\bin\Debug\net7.0\Module 12 - For Loops.exe
+D:\Now\c-sharp-mastery\Module 12 - For Loops\bin\Debug\net7.0\Module 12 - For Loops.deps.json
+D:\Now\c-sharp-mastery\Module 12 - For Loops\bin\Debug\net7.0\Module 12 - For Loops.runtimeconfig.json
+D:\Now\c-sharp-mastery\Module 12 - For Loops\bin\Debug\net7.0\Module 12 - For Loops.dll
+D:\Now\c-sharp-mastery\Module 12 - For Loops\bin\Debug\net7.0\Module 12 - For Loops.pdb
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\Module 12 - For Loops.csproj.AssemblyReference.cache
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\Module 12 - For Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\Module 12 - For Loops.AssemblyInfoInputs.cache
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\Module 12 - For Loops.AssemblyInfo.cs
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\Module 12 - For Loops.csproj.CoreCompileInputs.cache
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\Module 12 - For Loops.dll
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\refint\Module 12 - For Loops.dll
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\Module 12 - For Loops.pdb
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\Module 12 - For Loops.genruntimeconfig.cache
+D:\Now\c-sharp-mastery\Module 12 - For Loops\obj\Debug\net7.0\ref\Module 12 - For Loops.dll
