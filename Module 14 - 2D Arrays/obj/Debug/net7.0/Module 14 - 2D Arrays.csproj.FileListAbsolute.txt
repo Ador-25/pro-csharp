@@ -1,0 +1,15 @@
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\bin\Debug\net7.0\Module 14 - 2D Arrays.exe
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\bin\Debug\net7.0\Module 14 - 2D Arrays.deps.json
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\bin\Debug\net7.0\Module 14 - 2D Arrays.runtimeconfig.json
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\bin\Debug\net7.0\Module 14 - 2D Arrays.dll
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\bin\Debug\net7.0\Module 14 - 2D Arrays.pdb
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\Module 14 - 2D Arrays.csproj.AssemblyReference.cache
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\Module 14 - 2D Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\Module 14 - 2D Arrays.AssemblyInfoInputs.cache
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\Module 14 - 2D Arrays.AssemblyInfo.cs
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\Module 14 - 2D Arrays.csproj.CoreCompileInputs.cache
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\Module 14 - 2D Arrays.dll
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\refint\Module 14 - 2D Arrays.dll
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\Module 14 - 2D Arrays.pdb
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\Module 14 - 2D Arrays.genruntimeconfig.cache
+D:\Now\c-sharp-mastery\Module 14 - 2D Arrays\obj\Debug\net7.0\ref\Module 14 - 2D Arrays.dll
