@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VaVBzIH1EPsEkuXk7QcSnDg9yVz6kvpuqJu5p6VTBvoBnmGTmxS5ToRXw2w/CFDS5HuX4M82aXfKY7PfTySguA==",
+  "success": true,
+  "projectFilePath": "E:\\dotnet\\Learn\\pro-csharp\\Module 01 - Variables and Data Types\\Module 1 - Variables and Data Types.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Ador\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Ador\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Ador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
