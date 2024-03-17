@@ -1,8 +1,0 @@
-﻿In math, PEMDAS is an acronym that helps students remember the order of operations. The order is:
-
-    Parentheses (whatever is inside the parenthesis is performed first)
-    Exponents
-    Multiplication and Division (from left to right)
-    Addition and Subtraction (from left to right)
-
-C# follows the same order as PEMDAS except for exponents. 

@@ -1,3 +1,0 @@
-﻿What are input parameters? - Value types (or variables) inside a method.
-
-Which of the following statements is true? - The .NET Class Library contains definitions for data types used in C#.
